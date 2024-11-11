@@ -74,7 +74,7 @@
 
     + 学习如何与他人协同做项目【 `Fork` 和 `Pull request` 】
 
-3. 学会使用 **Git Bash** 将本地项目推送到**远程 **`Github` 仓库
+3. 学会使用 **Git Bash** 将本地项目推送到 **远程 ** `Github` 仓库
 
    > :thinking:认清 `GitHub` 和 `git` 的关系
 
